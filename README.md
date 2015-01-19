@@ -9,3 +9,7 @@ Tanka is a traditional Japanese poem containing five lines of 5, 7, 5, 7 and 7 s
 ## Blog Post
 
 [inaniwa3's blog](http://inaniwa3.hatenablog.com/entry/2015/01/01/152927 "inaniwa3's blog") (Japanese)
+
+## License
+
+MIT
