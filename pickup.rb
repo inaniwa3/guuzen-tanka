@@ -33,7 +33,6 @@ def convert_text(text)
   return dicts
 end
 
-# https://github.com/myokoym/mecab-mora/blob/master/lib/mecab-mora/mora.rb
 def count_mora(word)
   return word.tr("ぁ-ゔ","ァ-ヴ").
          gsub(/[^アイウエオカ-モヤユヨラ-ロワヲンヴー]/, "").length
